@@ -1,0 +1,10 @@
+Add report and block functionality within the chat interface
+
+Implement a dialog in the chat view for users to report or block other users, with predefined reasons and automatic blocking upon reporting.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 7f299862-88a3-403d-8f3f-d6e0ae18a157
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: bb42d6ac-1d2c-46d5-969c-550aadcc7eef
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/47c6bec3-9d05-442b-a0fd-9f1a26618697/7f299862-88a3-403d-8f3f-d6e0ae18a157/aNSgBbN
+Replit-Helium-Checkpoint-Created: true
